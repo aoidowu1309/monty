@@ -10,7 +10,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 
 
-:highlight Objectives: gui=bold
+Objectives:
 - To know what LIFO and FIFO mean
 - To know what a stack is, and when to use it
 - To know what a queue is, and when to use it
@@ -19,4 +19,4 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 - To know the proper way to use global variables
 
 Resource:
-- Difference between Stack and Queue Data Structures
+- Difference between Stack and Queue Data Structures ||
