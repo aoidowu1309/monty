@@ -10,7 +10,7 @@ Files containing Monty byte codes usually have the .m extension. Most of the ind
 
 
 
-${Bold}Objectives:
+:highlight Objectives: gui=bold
 - To know what LIFO and FIFO mean
 - To know what a stack is, and when to use it
 - To know what a queue is, and when to use it
